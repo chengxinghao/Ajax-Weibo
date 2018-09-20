@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  },
+  {
+    "id": 6,
+    "session_id": "2k5l52jgg253ssgs",
+    "user_id": 1,
+    "expired_time": 1537328788.9286063
+  }
+]

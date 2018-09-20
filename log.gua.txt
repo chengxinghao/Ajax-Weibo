@@ -1,0 +1,2006 @@
+2018/09/19 10:39:42 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:39:42 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  }
+]
+2018/09/19 10:39:42 models [< Session
+id: (0)
+session_id: (jjb2jg5gk5jbj4gg)
+user_id: (0)
+expired_time: (1536923671.8490505) >
+, < Session
+id: (1)
+session_id: (jsg23e5ejbde5eel)
+user_id: (0)
+expired_time: (1536925610.0805097) >
+, < Session
+id: (2)
+session_id: (s5e5g4r5de2gg2j2)
+user_id: (0)
+expired_time: (1536925697.4243622) >
+, < Session
+id: (3)
+session_id: (gl3j24jdr5gejel2)
+user_id: (0)
+expired_time: (1536925771.3190439) >
+]
+2018/09/19 10:39:42 save data/Session.txt [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  }
+] [{'id': 0, 'session_id': 'jjb2jg5gk5jbj4gg', 'user_id': 0, 'expired_time': 1536923671.8490505}, {'id': 1, 'session_id': 'jsg23e5ejbde5eel', 'user_id': 0, 'expired_time': 1536925610.0805097}, {'id': 2, 'session_id': 's5e5g4r5de2gg2j2', 'user_id': 0, 'expired_time': 1536925697.4243622}, {'id': 3, 'session_id': 'gl3j24jdr5gejel2', 'user_id': 0, 'expired_time': 1536925771.3190439}, {'id': 4, 'session_id': '2sd44lk5jl54sr2e', 'user_id': None, 'expired_time': 1537328382.9849315}]
+2018/09/19 10:39:43 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  }
+]
+2018/09/19 10:39:43 expired False 1537328382.9849315 1537324783.216488
+2018/09/19 10:39:43 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:40:13 login_required
+2018/09/19 10:40:13 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  }
+]
+2018/09/19 10:40:13 expired False 1537328382.9849315 1537324813.7210083
+2018/09/19 10:40:13 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:41:33 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:41:33 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  }
+]
+2018/09/19 10:41:33 models [< Session
+id: (0)
+session_id: (jjb2jg5gk5jbj4gg)
+user_id: (0)
+expired_time: (1536923671.8490505) >
+, < Session
+id: (1)
+session_id: (jsg23e5ejbde5eel)
+user_id: (0)
+expired_time: (1536925610.0805097) >
+, < Session
+id: (2)
+session_id: (s5e5g4r5de2gg2j2)
+user_id: (0)
+expired_time: (1536925697.4243622) >
+, < Session
+id: (3)
+session_id: (gl3j24jdr5gejel2)
+user_id: (0)
+expired_time: (1536925771.3190439) >
+, < Session
+id: (4)
+session_id: (2sd44lk5jl54sr2e)
+user_id: (None)
+expired_time: (1537328382.9849315) >
+]
+2018/09/19 10:41:33 save data/Session.txt [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  }
+] [{'id': 0, 'session_id': 'jjb2jg5gk5jbj4gg', 'user_id': 0, 'expired_time': 1536923671.8490505}, {'id': 1, 'session_id': 'jsg23e5ejbde5eel', 'user_id': 0, 'expired_time': 1536925610.0805097}, {'id': 2, 'session_id': 's5e5g4r5de2gg2j2', 'user_id': 0, 'expired_time': 1536925697.4243622}, {'id': 3, 'session_id': 'gl3j24jdr5gejel2', 'user_id': 0, 'expired_time': 1536925771.3190439}, {'id': 4, 'session_id': '2sd44lk5jl54sr2e', 'user_id': None, 'expired_time': 1537328382.9849315}, {'id': 5, 'session_id': 'djleglj2je53rgg5', 'user_id': None, 'expired_time': 1537328493.8280833}]
+2018/09/19 10:41:33 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  }
+]
+2018/09/19 10:41:33 expired False 1537328493.8280833 1537324893.8380916
+2018/09/19 10:41:33 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:46:16 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:46:16 models [< User
+id: (0)
+username: (test)
+password: (dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b)
+role: (UserRole.normal) >
+]
+2018/09/19 10:46:16 save data/User.txt [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+] [{'id': 0, 'username': 'test', 'password': 'dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b', 'role': <UserRole.normal: 2>}, {'id': 1, 'username': 'gua', 'password': 'dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b', 'role': <UserRole.normal: 2>}]
+2018/09/19 10:46:16 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:46:16 register post 注册成功<br> <pre>[< User
+id: (0)
+username: (test)
+password: (dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b)
+role: (UserRole.normal) >
+, < User
+id: (1)
+username: (gua)
+password: (dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b)
+role: (UserRole.normal) >
+]</pre>
+2018/09/19 10:46:28 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:46:28 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  }
+]
+2018/09/19 10:46:28 models [< Session
+id: (0)
+session_id: (jjb2jg5gk5jbj4gg)
+user_id: (0)
+expired_time: (1536923671.8490505) >
+, < Session
+id: (1)
+session_id: (jsg23e5ejbde5eel)
+user_id: (0)
+expired_time: (1536925610.0805097) >
+, < Session
+id: (2)
+session_id: (s5e5g4r5de2gg2j2)
+user_id: (0)
+expired_time: (1536925697.4243622) >
+, < Session
+id: (3)
+session_id: (gl3j24jdr5gejel2)
+user_id: (0)
+expired_time: (1536925771.3190439) >
+, < Session
+id: (4)
+session_id: (2sd44lk5jl54sr2e)
+user_id: (None)
+expired_time: (1537328382.9849315) >
+, < Session
+id: (5)
+session_id: (djleglj2je53rgg5)
+user_id: (None)
+expired_time: (1537328493.8280833) >
+]
+2018/09/19 10:46:28 save data/Session.txt [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  },
+  {
+    "id": 6,
+    "session_id": "2k5l52jgg253ssgs",
+    "user_id": 1,
+    "expired_time": 1537328788.9286063
+  }
+] [{'id': 0, 'session_id': 'jjb2jg5gk5jbj4gg', 'user_id': 0, 'expired_time': 1536923671.8490505}, {'id': 1, 'session_id': 'jsg23e5ejbde5eel', 'user_id': 0, 'expired_time': 1536925610.0805097}, {'id': 2, 'session_id': 's5e5g4r5de2gg2j2', 'user_id': 0, 'expired_time': 1536925697.4243622}, {'id': 3, 'session_id': 'gl3j24jdr5gejel2', 'user_id': 0, 'expired_time': 1536925771.3190439}, {'id': 4, 'session_id': '2sd44lk5jl54sr2e', 'user_id': None, 'expired_time': 1537328382.9849315}, {'id': 5, 'session_id': 'djleglj2je53rgg5', 'user_id': None, 'expired_time': 1537328493.8280833}, {'id': 6, 'session_id': '2k5l52jgg253ssgs', 'user_id': 1, 'expired_time': 1537328788.9286063}]
+2018/09/19 10:46:28 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  },
+  {
+    "id": 6,
+    "session_id": "2k5l52jgg253ssgs",
+    "user_id": 1,
+    "expired_time": 1537328788.9286063
+  }
+]
+2018/09/19 10:46:28 expired False 1537328788.9286063 1537325188.939646
+2018/09/19 10:46:28 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:46:35 login_required
+2018/09/19 10:46:35 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  },
+  {
+    "id": 6,
+    "session_id": "2k5l52jgg253ssgs",
+    "user_id": 1,
+    "expired_time": 1537328788.9286063
+  }
+]
+2018/09/19 10:46:35 expired False 1537328788.9286063 1537325195.199267
+2018/09/19 10:46:35 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:46:35 登录用户 <function index at 0x04085A50>
+2018/09/19 10:46:35 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  },
+  {
+    "id": 6,
+    "session_id": "2k5l52jgg253ssgs",
+    "user_id": 1,
+    "expired_time": 1537328788.9286063
+  }
+]
+2018/09/19 10:46:35 expired False 1537328788.9286063 1537325195.2022674
+2018/09/19 10:46:35 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:46:35 find_all kwargs {'user_id': 1}
+2018/09/19 10:46:35 load []
+2018/09/19 10:46:35 login_required
+2018/09/19 10:46:35 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  },
+  {
+    "id": 6,
+    "session_id": "2k5l52jgg253ssgs",
+    "user_id": 1,
+    "expired_time": 1537328788.9286063
+  }
+]
+2018/09/19 10:46:35 expired False 1537328788.9286063 1537325195.2822287
+2018/09/19 10:46:35 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:46:35 登录用户 <function all at 0x0408D0C0>
+2018/09/19 10:46:35 load []
+2018/09/19 10:46:38 login_required
+2018/09/19 10:46:38 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  },
+  {
+    "id": 6,
+    "session_id": "2k5l52jgg253ssgs",
+    "user_id": 1,
+    "expired_time": 1537328788.9286063
+  }
+]
+2018/09/19 10:46:38 expired False 1537328788.9286063 1537325198.7986631
+2018/09/19 10:46:38 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:46:38 登录用户 <function add at 0x0408D198>
+2018/09/19 10:46:38 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  },
+  {
+    "id": 6,
+    "session_id": "2k5l52jgg253ssgs",
+    "user_id": 1,
+    "expired_time": 1537328788.9286063
+  }
+]
+2018/09/19 10:46:38 expired False 1537328788.9286063 1537325198.8006635
+2018/09/19 10:46:38 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:46:38 load []
+2018/09/19 10:46:38 models []
+2018/09/19 10:46:38 save data/Weibo.txt [
+  {
+    "id": 0,
+    "content": "1111111",
+    "user_id": 1
+  }
+] [{'id': 0, 'content': '1111111', 'user_id': 1}]
+2018/09/19 10:46:42 login_required
+2018/09/19 10:46:42 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  },
+  {
+    "id": 6,
+    "session_id": "2k5l52jgg253ssgs",
+    "user_id": 1,
+    "expired_time": 1537328788.9286063
+  }
+]
+2018/09/19 10:46:42 expired False 1537328788.9286063 1537325202.7738264
+2018/09/19 10:46:42 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:46:42 登录用户 <function add_comment at 0x0408D4B0>
+2018/09/19 10:46:42 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  },
+  {
+    "id": 6,
+    "session_id": "2k5l52jgg253ssgs",
+    "user_id": 1,
+    "expired_time": 1537328788.9286063
+  }
+]
+2018/09/19 10:46:42 expired False 1537328788.9286063 1537325202.778803
+2018/09/19 10:46:42 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:46:42 load []
+2018/09/19 10:46:42 models []
+2018/09/19 10:46:42 save data/Comment.txt [
+  {
+    "id": 0,
+    "content": "1111111",
+    "user_id": 1,
+    "weibo_id": 0
+  }
+] [{'id': 0, 'content': '1111111', 'user_id': 1, 'weibo_id': 0}]
+2018/09/19 10:46:42 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:46:43 login_required
+2018/09/19 10:46:43 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  },
+  {
+    "id": 6,
+    "session_id": "2k5l52jgg253ssgs",
+    "user_id": 1,
+    "expired_time": 1537328788.9286063
+  }
+]
+2018/09/19 10:46:43 expired False 1537328788.9286063 1537325203.0942755
+2018/09/19 10:46:43 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:46:43 登录用户 <function add_comment at 0x0408D4B0>
+2018/09/19 10:46:43 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  },
+  {
+    "id": 6,
+    "session_id": "2k5l52jgg253ssgs",
+    "user_id": 1,
+    "expired_time": 1537328788.9286063
+  }
+]
+2018/09/19 10:46:43 expired False 1537328788.9286063 1537325203.096299
+2018/09/19 10:46:43 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:46:43 load [
+  {
+    "id": 0,
+    "content": "1111111",
+    "user_id": 1,
+    "weibo_id": 0
+  }
+]
+2018/09/19 10:46:43 models [< Comment
+id: (0)
+content: (1111111)
+user_id: (1)
+weibo_id: (0) >
+]
+2018/09/19 10:46:43 save data/Comment.txt [
+  {
+    "id": 0,
+    "content": "1111111",
+    "user_id": 1,
+    "weibo_id": 0
+  },
+  {
+    "id": 1,
+    "content": "1111111",
+    "user_id": 1,
+    "weibo_id": 0
+  }
+] [{'id': 0, 'content': '1111111', 'user_id': 1, 'weibo_id': 0}, {'id': 1, 'content': '1111111', 'user_id': 1, 'weibo_id': 0}]
+2018/09/19 10:46:43 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:47:46 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  },
+  {
+    "id": 6,
+    "session_id": "2k5l52jgg253ssgs",
+    "user_id": 1,
+    "expired_time": 1537328788.9286063
+  }
+]
+2018/09/19 10:47:46 expired False 1537328788.9286063 1537325266.0463896
+2018/09/19 10:47:46 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:47:46 load [
+  {
+    "id": 0,
+    "content": "1111111",
+    "user_id": 1,
+    "weibo_id": 0
+  },
+  {
+    "id": 1,
+    "content": "1111111",
+    "user_id": 1,
+    "weibo_id": 0
+  }
+]
+2018/09/19 10:47:46 load [
+  {
+    "id": 0,
+    "content": "1111111",
+    "user_id": 1
+  }
+]
+2018/09/19 10:47:46 login_required
+2018/09/19 10:47:46 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  },
+  {
+    "id": 6,
+    "session_id": "2k5l52jgg253ssgs",
+    "user_id": 1,
+    "expired_time": 1537328788.9286063
+  }
+]
+2018/09/19 10:47:46 expired False 1537328788.9286063 1537325266.0533948
+2018/09/19 10:47:46 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:47:46 登录用户 <function delete_comment at 0x0408D588>
+2018/09/19 10:47:46 load [
+  {
+    "id": 0,
+    "content": "1111111",
+    "user_id": 1,
+    "weibo_id": 0
+  },
+  {
+    "id": 1,
+    "content": "1111111",
+    "user_id": 1,
+    "weibo_id": 0
+  }
+]
+2018/09/19 10:47:46 save data/Comment.txt [
+  {
+    "id": 0,
+    "content": "1111111",
+    "user_id": 1,
+    "weibo_id": 0
+  }
+] [{'id': 0, 'content': '1111111', 'user_id': 1, 'weibo_id': 0}]
+2018/09/19 10:47:49 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  },
+  {
+    "id": 6,
+    "session_id": "2k5l52jgg253ssgs",
+    "user_id": 1,
+    "expired_time": 1537328788.9286063
+  }
+]
+2018/09/19 10:47:49 expired False 1537328788.9286063 1537325269.7903388
+2018/09/19 10:47:49 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:47:49 load [
+  {
+    "id": 0,
+    "content": "1111111",
+    "user_id": 1,
+    "weibo_id": 0
+  }
+]
+2018/09/19 10:47:49 load [
+  {
+    "id": 0,
+    "content": "1111111",
+    "user_id": 1
+  }
+]
+2018/09/19 10:47:49 login_required
+2018/09/19 10:47:49 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  },
+  {
+    "id": 6,
+    "session_id": "2k5l52jgg253ssgs",
+    "user_id": 1,
+    "expired_time": 1537328788.9286063
+  }
+]
+2018/09/19 10:47:49 expired False 1537328788.9286063 1537325269.7933536
+2018/09/19 10:47:49 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:47:49 登录用户 <function delete_comment at 0x0408D588>
+2018/09/19 10:47:49 load [
+  {
+    "id": 0,
+    "content": "1111111",
+    "user_id": 1,
+    "weibo_id": 0
+  }
+]
+2018/09/19 10:47:49 save data/Comment.txt [] []
+2018/09/19 10:47:58 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  },
+  {
+    "id": 6,
+    "session_id": "2k5l52jgg253ssgs",
+    "user_id": 1,
+    "expired_time": 1537328788.9286063
+  }
+]
+2018/09/19 10:47:58 expired False 1537328788.9286063 1537325278.573162
+2018/09/19 10:47:58 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:47:58 load [
+  {
+    "id": 0,
+    "content": "1111111",
+    "user_id": 1
+  }
+]
+2018/09/19 10:47:58 login_required
+2018/09/19 10:47:58 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  },
+  {
+    "id": 6,
+    "session_id": "2k5l52jgg253ssgs",
+    "user_id": 1,
+    "expired_time": 1537328788.9286063
+  }
+]
+2018/09/19 10:47:58 expired False 1537328788.9286063 1537325278.5791671
+2018/09/19 10:47:58 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:47:58 登录用户 <function delete at 0x0408D270>
+2018/09/19 10:47:58 load [
+  {
+    "id": 0,
+    "content": "1111111",
+    "user_id": 1
+  }
+]
+2018/09/19 10:47:58 save data/Weibo.txt [] []
+2018/09/19 10:48:10 login_required
+2018/09/19 10:48:10 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  },
+  {
+    "id": 6,
+    "session_id": "2k5l52jgg253ssgs",
+    "user_id": 1,
+    "expired_time": 1537328788.9286063
+  }
+]
+2018/09/19 10:48:10 expired False 1537328788.9286063 1537325290.7910037
+2018/09/19 10:48:10 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:48:10 登录用户 <function add at 0x0408D198>
+2018/09/19 10:48:10 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  },
+  {
+    "id": 6,
+    "session_id": "2k5l52jgg253ssgs",
+    "user_id": 1,
+    "expired_time": 1537328788.9286063
+  }
+]
+2018/09/19 10:48:10 expired False 1537328788.9286063 1537325290.7950065
+2018/09/19 10:48:10 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:48:10 load []
+2018/09/19 10:48:10 models []
+2018/09/19 10:48:10 save data/Weibo.txt [
+  {
+    "id": 0,
+    "content": "你好",
+    "user_id": 1
+  }
+] [{'id': 0, 'content': '你好', 'user_id': 1}]
+2018/09/19 10:48:22 login_required
+2018/09/19 10:48:22 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  },
+  {
+    "id": 6,
+    "session_id": "2k5l52jgg253ssgs",
+    "user_id": 1,
+    "expired_time": 1537328788.9286063
+  }
+]
+2018/09/19 10:48:22 expired False 1537328788.9286063 1537325302.8635807
+2018/09/19 10:48:22 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:48:22 登录用户 <function add at 0x0408D198>
+2018/09/19 10:48:22 load [
+  {
+    "id": 0,
+    "session_id": "jjb2jg5gk5jbj4gg",
+    "user_id": 0,
+    "expired_time": 1536923671.8490505
+  },
+  {
+    "id": 1,
+    "session_id": "jsg23e5ejbde5eel",
+    "user_id": 0,
+    "expired_time": 1536925610.0805097
+  },
+  {
+    "id": 2,
+    "session_id": "s5e5g4r5de2gg2j2",
+    "user_id": 0,
+    "expired_time": 1536925697.4243622
+  },
+  {
+    "id": 3,
+    "session_id": "gl3j24jdr5gejel2",
+    "user_id": 0,
+    "expired_time": 1536925771.3190439
+  },
+  {
+    "id": 4,
+    "session_id": "2sd44lk5jl54sr2e",
+    "user_id": null,
+    "expired_time": 1537328382.9849315
+  },
+  {
+    "id": 5,
+    "session_id": "djleglj2je53rgg5",
+    "user_id": null,
+    "expired_time": 1537328493.8280833
+  },
+  {
+    "id": 6,
+    "session_id": "2k5l52jgg253ssgs",
+    "user_id": 1,
+    "expired_time": 1537328788.9286063
+  }
+]
+2018/09/19 10:48:22 expired False 1537328788.9286063 1537325302.8675835
+2018/09/19 10:48:22 load [
+  {
+    "id": 0,
+    "username": "test",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  },
+  {
+    "id": 1,
+    "username": "gua",
+    "password": "dabe8fbbed00dbf72144618dfa56b6eff40207b290013639faa13ecb09f90c3b",
+    "role": {
+      "__enum__": "normal"
+    }
+  }
+]
+2018/09/19 10:48:22 load [
+  {
+    "id": 0,
+    "content": "你好",
+    "user_id": 1
+  }
+]
+2018/09/19 10:48:22 models [< Weibo
+id: (0)
+content: (你好)
+user_id: (1) >
+]
+2018/09/19 10:48:22 save data/Weibo.txt [
+  {
+    "id": 0,
+    "content": "你好",
+    "user_id": 1
+  },
+  {
+    "id": 1,
+    "content": "你好啊",
+    "user_id": 1
+  }
+] [{'id': 0, 'content': '你好', 'user_id': 1}, {'id': 1, 'content': '你好啊', 'user_id': 1}]
